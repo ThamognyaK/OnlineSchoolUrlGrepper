@@ -1,1 +1,3 @@
-sdjfks
+- https://zoom.com/sfdfdfad.... 
+- https://meet.google.coom/sdf____
+- id: 000__ passwd: 000___
