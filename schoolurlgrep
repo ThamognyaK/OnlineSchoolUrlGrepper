@@ -1,3 +1,4 @@
 #!/bin/sh
 # taking query
-query=$(printf "%s" "$*")
+query=$(printf "%s" "$*") && grepquery="## $query"
+echo $grepquery
