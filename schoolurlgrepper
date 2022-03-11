@@ -1,0 +1,3 @@
+#!/bin/sh
+# taking query
+query=$(printf "%s" "$*")
