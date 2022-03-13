@@ -7,6 +7,19 @@ It is wrriten with javascript.
 
 `make install`
 
+
+### Linux
+
+`make install-linux`
+
+### Macos
+
+`make install-macos`
+
+### Windows
+
+there is a exe provided.
+
 ## update
 
 `make update`
