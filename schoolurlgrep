@@ -1,4 +1,3 @@
 #!/bin/sh
-# taking query
-query=$(printf "%s" "$*") && grepquery="## $query"
-echo $grepquery
+
+node ./schoolurlgrep.js
