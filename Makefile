@@ -6,11 +6,11 @@ install:
 
 .PHONY: install-linux
 install-linux:
-	cp $(DIR)/schoolurlgrep-linux /usr/local/bin/schoolurlgrep
+	cp $(DIR)/schoolurlgrep-binaries/schoolurlgrep-linux /usr/local/bin/schoolurlgrep
 
 .PHONY: install-macos
 install-macos:
-	cp $(DIR)/schoolurlgrep-macos /usr/local/bin/schoolurlgrep
+	cp $(DIR)/schoolurlgrep-binaries/schoolurlgrep-macos /usr/local/bin/schoolurlgrep
 
 .PHONY: delete
 delete:
